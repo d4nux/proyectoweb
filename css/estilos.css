@@ -13,9 +13,10 @@ body{
 
 button{
     border-radius: 5px;
-    background: red;
+    background: blue;
     padding: 5px;
     color: #ffffff;
+    margin-bottom: 40px;
 }
 
 .contenido{
@@ -42,4 +43,30 @@ button{
 
 li{
     list-style: none;
+}
+
+fieldset{
+    padding: 20px;
+}
+
+.caja{
+    background: red;
+}
+
+input{
+    margin-bottom: 20px;
+}
+
+label{
+    color: beige;
+    margin: 10px;
+}
+
+.formulario{
+    background: purple;
+    padding: 10px;
+}
+
+.formulario label{
+    background: black;
 }
